@@ -132,7 +132,7 @@ Generate comprehensive quality reports:
 #### Export Formats
 - CSV reports for spreadsheet analysis
 - JSON for system integration
-- HTML reports for stakeholder review
+- HTML reports for stakeholder review. 
 
 ---
 
